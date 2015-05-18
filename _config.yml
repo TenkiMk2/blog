@@ -1,5 +1,5 @@
 name: Your New Jekyll Site
-markdow: redcarpet
+markdow: rdiscount
 pygments: true
 
 baseurl: "/blog"
